@@ -1,2 +1,25 @@
-# IoT-DataAnalytics
-Data Science Projects - IoT Data Pipeline - Application
+# IoT-Indoor Air Quality Monitoring
+Data Science Projects - IoT Data Pipeline - Application - Presentation Slides
+
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/5b03325c-83d8-4701-9162-55902a90aa00)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/2cdd0378-0f01-4a1c-966b-2373fe01e55d)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/4bcd356a-7493-4640-85e5-7962a2253d51)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/11ae9ec0-866c-4970-9e32-eddce23a070a)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/bbe14ed4-d1d2-4bcd-9af2-76ce5ad3a672)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/92741332-55bc-4f4d-8993-1e1377961cd3)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/12cf706a-ce67-4f69-ad1d-03b42f18f942)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/8449c3a7-190a-497d-a863-f466e10b8596)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/bf0ec61d-c067-49ae-a451-826c6c633b23)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/c1f0bc55-9095-41fe-8d8c-4947a82ead3d)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/486bd9fa-51ab-4f63-8448-5b918c52e7c6)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/0951ff49-e4b9-4ff3-9232-3246403a1b70)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/3d2244b6-287d-489a-b620-4cbbfad67739)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/f19a9c45-a039-43f2-8e1d-04994540b775)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/3905b62d-888d-4184-b1cd-a13fc0957da6)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/728ba3c9-ccb6-40c0-a5e9-907a3550d138)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/8b2a4ab6-131b-4509-96fb-451fa683c1c8)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/c9cdbdcc-d1f3-4ccf-b353-8333f050f4b2)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/ba880370-0882-427c-81c9-a83803bbfb71)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/46875dcc-3edc-494c-b722-bf9b641e2f45)
+![image](https://github.com/arvidhyapriyadarshini/IoT-DataAnalytics/assets/112971590/637fed32-4885-4ef4-bbd5-b039c4a288fc)
+
